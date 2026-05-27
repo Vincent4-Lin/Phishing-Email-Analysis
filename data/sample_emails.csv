@@ -1,0 +1,14 @@
+id,label,sender,subject,body
+1,phishing,security-alert@paypa1-login.com,Immediate action required for your account,"Your account has been temporarily limited. Verify your password within 24 hours to avoid suspension. Visit https://paypa1-login.com/secure-update now."
+2,legitimate,notifications@github.com,Security alert for your GitHub account,"A new SSH key was added to your GitHub account. If this was not you, review your account security settings at https://github.com/settings/security."
+3,phishing,it-support@company-reset.net,Mailbox storage exceeded,"Your mailbox will be disabled today. Click http://company-reset.net/login to confirm your username and password."
+4,legitimate,newsletter@cloudflare.com,Cloudflare security newsletter,"This month we discuss DDoS trends, zero trust adoption, and practical security operations guidance. Read more at https://blog.cloudflare.com/"
+5,phishing,admin@university-scholarship.org,Scholarship payment pending,"You have been selected for an urgent scholarship payment. Submit your bank details and passport copy at http://university-scholarship.org/claim."
+6,legitimate,alerts@bank.example.com,Monthly account statement available,"Your monthly account statement is ready. Please log in through the official mobile app or website if you want to review it."
+7,phishing,hr@careers-global-verify.com,Remote job offer confirmation,"Congratulations. To receive your employment contract, pay the processing fee and verify your identity at https://careers-global-verify.com/hr/login."
+8,legitimate,team@coursera.org,Course reminder,"Your cybersecurity course continues this week. The next module covers network defense fundamentals and incident response workflows."
+9,phishing,support@microsoft-security-check.com,Microsoft account password expires today,"Your Microsoft password expires today. Keep access by confirming your current password at https://microsoft-security-check.com/session."
+10,legitimate,no-reply@linkedin.com,New sign-in from Chrome,"We noticed a new sign-in to your LinkedIn account. If this was not you, please visit LinkedIn directly and change your password."
+11,phishing,invoice@vendor-payments.co,Overdue invoice escalation,"Final notice: payment is overdue. Open the attached invoice portal and enter your finance credentials at http://vendor-payments.co/invoice."
+12,legitimate,security@mozilla.org,Firefox security update,"A Firefox security update is available. Update through your browser settings or download from the official Mozilla website."
+
