@@ -27,10 +27,12 @@ phishing-email-analysis/
 │   └── sample_emails.csv
 ├── reports/
 │   └── analysis_report.md
+│   └── threat-intelligence-brief-001.md
 ├── src/
 │   └── analyze_phishing.py
 ├── .gitignore
 ├── github-profile-readme-template.md
+├── technical-inventory.md
 └── README.md
 ```
 
@@ -55,6 +57,15 @@ How can lightweight linguistic and URL-based indicators help detect phishing ema
 
 The initial rule-based detector is meant to be explainable rather than perfect. Each score can be traced back to concrete indicators, making the output useful for analyst training, security awareness, and early-stage threat intelligence writing.
 
+## Applicant Background
+
+I am preparing for graduate study in cybersecurity and network security in Japan. My academic background is in English, and I am building a cybersecurity portfolio that connects language analysis, phishing, threat intelligence, and networking fundamentals.
+
+- TOEIC: 955
+- JLPT: N1
+- Certification: Cisco CCNA
+- Current focus: phishing email analysis, cyber threat intelligence, and network security fundamentals
+
 ## Next Steps
 
 - Replace the synthetic sample with a public phishing corpus.
@@ -66,4 +77,3 @@ The initial rule-based detector is meant to be explainable rather than perfect. 
 ## Applicant Note
 
 This project connects my English-language analytical background with cybersecurity and networking foundations. It is an initial step toward research interests in phishing, social engineering, cyber threat intelligence, and network/security operations.
-
