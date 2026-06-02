@@ -6,6 +6,16 @@ This project analyzes phishing email indicators using a small, transparent rule-
 
 Phishing remains one of the most common entry points for cyber incidents. This project demonstrates how language signals, sender information, and URL patterns can be combined to identify suspicious emails and produce a short security analysis report.
 
+## Research Direction Fit
+
+My current research direction is AI-assisted cybersecurity investigation and threat intelligence analysis for identifying attack patterns and improving incident response.
+
+This project supports that direction by:
+
+- Extracting observable phishing indicators such as sender traits, social engineering language, suspicious links, attachment risk, and possible attacker intent.
+- Showing an explainable investigation workflow that can be used as a baseline before adding AI-assisted classification, summarization, or triage.
+- Creating a practical starting point for future work where AI helps identify phishing patterns, organize evidence, and produce an initial incident triage summary.
+
 ## Current Scope
 
 The current dataset is synthetic and intentionally small. It is used to demonstrate the analysis workflow without exposing private email content.
@@ -73,6 +83,7 @@ I am preparing for graduate study in cybersecurity and network security in Japan
 - Add feature extraction for URL age, domain reputation, and redirect chains.
 - Compare the rule-based method with a basic machine learning classifier.
 - Write a short English threat intelligence brief based on the highest-risk samples.
+- Extend the project into an AI-assisted incident triage workflow that generates incident summaries, ATT&CK mappings, priority scores, and response recommendations.
 
 ## Applicant Note
 
