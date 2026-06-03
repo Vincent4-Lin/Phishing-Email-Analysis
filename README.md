@@ -16,6 +16,8 @@ This project supports that direction by:
 - Showing an explainable investigation workflow that can be used as a baseline before adding AI-assisted classification, summarization, or triage.
 - Creating a practical starting point for future work where AI helps identify phishing patterns, organize evidence, and produce an initial incident triage summary.
 
+For a fuller explanation, see [Research Direction Fit](docs/research-direction.md).
+
 ## Current Scope
 
 The current dataset is synthetic and intentionally small. It is used to demonstrate the analysis workflow without exposing private email content.
@@ -35,6 +37,8 @@ The analysis checks for:
 phishing-email-analysis/
 ├── data/
 │   └── sample_emails.csv
+├── docs/
+│   └── research-direction.md
 ├── reports/
 │   └── analysis_report.md
 │   └── threat-intelligence-brief-001.md
