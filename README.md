@@ -2,6 +2,12 @@
 
 This project analyzes phishing email indicators using a small, transparent rule-based pipeline. It is designed as an early cybersecurity portfolio project for graduate school applications, with a focus on phishing, social engineering, suspicious links, sender/domain mismatch, and threat-intelligence style reporting.
 
+## Portfolio Position
+
+This repository is an early baseline project for phishing analysis. It is intentionally simple and rule-based so the reasoning behind each score is easy to inspect.
+
+My newer [ai-soc-analyst](https://github.com/Vincent4-Lin/ai-soc-analyst) project expands this direction by parsing raw `.eml` files, extracting IOCs, and placing phishing evidence inside a broader SOC triage workflow.
+
 ## Why This Project Matters
 
 Phishing remains one of the most common entry points for cyber incidents. This project demonstrates how language signals, sender information, and URL patterns can be combined to identify suspicious emails and produce a short security analysis report.
